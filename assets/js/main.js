@@ -92,7 +92,7 @@ let swiperCards = new Swiper('.card__content',{
         0:{
             slidesPerView:1
         },
-        800:{
+        768:{
             slidesPerView:2
         },
         1024:{
